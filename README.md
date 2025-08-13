@@ -2,9 +2,7 @@
 
 Welcome to the official repository for my personal portfolio website. This project is a comprehensive showcase of my skills, projects, and professional experience, meticulously built with a modern tech stack to be fast, responsive, and visually engaging.
 
-**Live Site:** [vinay-jain-portfolio.netlify.app](https://vinay-jain-portfolio.netlify.app) _(Replace with your actual URL after deployment)_
-
-![Portfolio Screenshot](https://i.imgur.com/your-screenshot-url.png) _(Suggestion: Add a screenshot of your finished website here!)_
+**Live Site:** [vinay-jain-portfolio.netlify.app](https://vinayjain.netlify.app/) _(Replace with your actual URL after deployment)_
 
 ---
 
